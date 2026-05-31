@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>MEng Computer Science @ UCL · Previous Software Engineer Intern @ Meta and Barclays</em><br/>
-  <em>Interested in developer tools, ML systems, and applied algorithms.</em>
+  <em>Interested in software testing, machine learning and LLMs.</em>
 </p>
 
 <p align="center">
