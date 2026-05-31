@@ -27,10 +27,10 @@
 
 | When | Where | Role |
 |---|---|---|
-| Jun 2025 – Sep 2025 | <img alt="Meta" src="https://img.shields.io/badge/Meta-0467DF?style=flat&logo=meta&logoColor=white"> London | Software Engineer Intern |
+| Jun 2025 – Sep 2025 | **Meta** London | Software Engineer Intern |
 | Oct 2024 – Apr 2025 | **UCL** | Research Assistant (LLM code generation) |
-| 2024 – 2025 | **UCL Department of Computer Science** | Programming Tutor |
-| Jun 2024 – Aug 2024 | <img alt="Barclays" src="https://img.shields.io/badge/Barclays-00AEEF?style=flat&logo=barclays&logoColor=white"> Glasgow | Software Engineer Intern |
+| Oct 2024 – Apr 2025 | **UCL Department of Computer Science** | Programming Tutor |
+| Jun 2024 – Aug 2024 | **Barclays** Glasgow | Software Engineer Intern |
 | Nov 2023 – Feb 2024 | **Janah Cycle** | Software Engineer (Remote) |
 
 **Highlights**
@@ -47,7 +47,7 @@
 | 2023 – 2024 | [**UCL Computer Science Society**](https://www.instagram.com/uclcss/?hl=en) | Head of Marketing |
 | 2023 – 2024 | [**UCL Thai Society**](https://www.instagram.com/uclthaisociety/?hl=en) | Public Relations |
 | 2024 – 2025 | **UCL Department of Computer Science** | Programming Tutor |
-| Ongoing | **UCL Engineering Society · Badminton Society · Pool Society** | Active Member |
+| 2022 - 2026 | **UCL Engineering Society · Badminton Society · Pool Society** | Active Member |
 
 ### 📌 Featured Projects
 
