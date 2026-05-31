@@ -51,6 +51,24 @@
 
 ### 📌 Featured Projects
 
+#### 🎮 Latest Highlight — [21 Card Poker](https://github.com/ScooterStuff/21-card-poker)
+
+A modern web port of a 2-player **21-card poker** game I designed — bluff, draw, and outwit the AI. Vanilla JS, zero build step, deployed via GitHub Pages.
+
+▶️ **Play it: https://scooterstuff.github.io/21-card-poker/**
+
+<a href="https://scooterstuff.github.io/21-card-poker/">
+  <img alt="21 Card Poker — Start Screen" src="https://raw.githubusercontent.com/ScooterStuff/21-card-poker/main/docs/screenshot-main.png" width="49%">
+  <img alt="21 Card Poker — In Game" src="https://raw.githubusercontent.com/ScooterStuff/21-card-poker/main/docs/screenshot-game.png" width="49%">
+</a>
+
+- 🎚️ Easy / Medium / Hard AI profiles (bluff frequency, fold threshold, raise aggression)
+- 🔊 Synthesized Web Audio sound FX (no asset files)
+- 🎨 Glassmorphism UI, animated cards, showdown reveal with Joker resolution
+- ♻️ Companion Python desktop client + CFR-based strategy analysis in the same repo
+
+---
+
 | Project | Description | Tech |
 |---|---|---|
 | **[SmartIndex](https://github.com/ScooterStuff/SmartIndex)** | MongoDB index recommender using ESR ordering, Shannon entropy, and a trie-based MinSet optimiser. | Python · MongoDB · pytest |
