@@ -20,35 +20,34 @@
 
 ### 🎓 Education
 
-- **University College London** — MEng Computer Science _(First-Class Honours, expected June 2026)_
+- **University College London** — MEng Computer Science *(First-Class Honours, expected June 2026)*
 - **British International School Phuket** — IB **43/45**, Valedictorian (2022)
 
 ### 💼 Experience
 
-| When                | Where                                  | Role                                                                                        |
-| ------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Jun 2025 – Sep 2025 | **Meta** London                        | Software Engineer Intern                                                                    |
-| Oct 2024 – Apr 2025 | **UCL**                                | Research Assistant <a href="https://arxiv.org/html/2505.07270v1"> (LLM code generation)</a> |
-| Oct 2024 – Apr 2025 | **UCL Department of Computer Science** | Programming Tutor                                                                           |
-| Jun 2024 – Aug 2024 | **Barclays** Glasgow                   | Software Engineer Intern                                                                    |
-| Nov 2023 – Feb 2024 | **Janah Cycle**                        | Software Engineer (Remote)                                                                  |
+| When | Where | Role |
+|---|---|---|
+| Jun 2025 – Sep 2025 | **Meta** London | Software Engineer Intern |
+| Oct 2024 – Apr 2025 | **UCL** | Research Assistant <a href="https://arxiv.org/html/2505.07270v1"> (LLM code generation)</a> |
+| Oct 2024 – Apr 2025 | **UCL Department of Computer Science** | Programming Tutor |
+| Jun 2024 – Aug 2024 | **Barclays** Glasgow | Software Engineer Intern |
+| Nov 2023 – Feb 2024 | **Janah Cycle** | Software Engineer (Remote) |
 
 **Highlights**
-
 - 🛠️ At **Meta**, shipped an internal commit-time test-coverage tool with 50+ MAU; partitioned the data pipeline to cut infra cost from ~$20 → $1.20/day.
 - 🧪 At **UCL**, research on automated repair of ambiguous programming descriptions for LLM code generation — **+30.9% Pass@1** on repaired descriptions, **+10.48%** cross-model transfer; used Shannon entropy to cluster prompts by ambiguity.
 - 🗄️ At **Barclays**, built a Python tool to generate, test, and validate MongoDB indexing strategies — hit the **<100 ms** query target, **+15%** perf, **−8 GB** memory across 5M+ row models.
-- 🏆 **Winner**, Meta org-level hackathon — _LLM-Assisted Flaky Test Triage and Repair_.
+- 🏆 **Winner**, Meta org-level hackathon — *LLM-Assisted Flaky Test Triage and Repair*.
 
 ### 🌍 Leadership, Teaching & Extracurriculars
 
-| When        | Organisation                                                                | Role              |
-| ----------- | --------------------------------------------------------------------------- | ----------------- |
-| 2024 – 2025 | [**UCL Computer Science Society**](https://www.instagram.com/uclcss/?hl=en) | Welfare Officer   |
+| When | Organisation | Role |
+|---|---|---|
+| 2024 – 2025 | [**UCL Computer Science Society**](https://www.instagram.com/uclcss/?hl=en) | Welfare Officer |
 | 2023 – 2024 | [**UCL Computer Science Society**](https://www.instagram.com/uclcss/?hl=en) | Head of Marketing |
-| 2023 – 2024 | [**UCL Thai Society**](https://www.instagram.com/uclthaisociety/?hl=en)     | Public Relations  |
-| 2024 – 2025 | **UCL Department of Computer Science**                                      | Programming Tutor |
-| 2022 - 2026 | **UCL Engineering Society · Badminton Society · Pool Society**              | Active Member     |
+| 2023 – 2024 | [**UCL Thai Society**](https://www.instagram.com/uclthaisociety/?hl=en) | Public Relations |
+| 2024 – 2025 | **UCL Department of Computer Science** | Programming Tutor |
+| 2022 - 2026 | **UCL Engineering Society · Badminton Society · Pool Society** | Active Member |
 
 ### 📌 Featured Projects
 
@@ -59,8 +58,8 @@ A modern web port of a 2-player **21-card poker** game I designed — bluff, dra
 ▶️ **Play it: https://scooterstuff.github.io/21-card-poker/**
 
 <a href="https://scooterstuff.github.io/21-card-poker/">
-  <img alt="21 Card Poker — Start Screen" src="https://raw.githubusercontent.com/ScooterStuff/ScooterStuff/docs/screenshot-main.png" width="49%">
-  <img alt="21 Card Poker — In Game" src="https://raw.githubusercontent.com/ScooterStuff/ScooterStuff/docs/screenshot-game.png" width="49%">
+  <img alt="21 Card Poker — Start Screen" src="https://raw.githubusercontent.com/ScooterStuff/21-card-poker/main/docs/screenshot-main.png" width="49%">
+  <img alt="21 Card Poker — In Game" src="https://raw.githubusercontent.com/ScooterStuff/21-card-poker/main/docs/screenshot-game.png" width="49%">
 </a>
 
 - 🎚️ Easy / Medium / Hard AI profiles (bluff frequency, fold threshold, raise aggression)
@@ -70,20 +69,19 @@ A modern web port of a 2-player **21-card poker** game I designed — bluff, dra
 
 ---
 
-| Project                                                                                                                                  | Description                                                                                       | Tech                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------- |
-| **[SmartIndex](https://github.com/ScooterStuff/SmartIndex)**                                                                             | MongoDB index recommender using ESR ordering, Shannon entropy, and a trie-based MinSet optimiser. | Python · MongoDB · pytest |
-| **[autoe2e](https://github.com/ScooterStuff/autoe2e)**                                                                                   | Automated end-to-end test generation tooling.                                                     | Python                    |
-| **[forecasting_bias](https://github.com/ScooterStuff/forecasting_bias)**                                                                 | Analysis of bias and error in forecasting models.                                                 | Python · Stats            |
-| **[ec-prediction-ml](https://github.com/ScooterStuff/ec-prediction-ml)**                                                                 | Machine-learning notebooks for an EC prediction problem.                                          | Jupyter · scikit-learn    |
-| **[flood_dashboard](https://github.com/ScooterStuff/flood_dashboard)**                                                                   | Interactive dashboard visualising flood data.                                                     | TypeScript                |
-| **[British International School Phuket Roblox Experience](https://www.roblox.com/games/5958451153/British-International-School-Phuket)** | Roblox development project for a school-themed interactive experience.                            | Roblox Studio · Lua       |
-| **[textNER](https://github.com/ScooterStuff/textNER)**                                                                                   | NER for motion-input research.                                                                    | Python · NLP              |
+| Project | Description | Tech |
+|---|---|---|
+| **[SmartIndex](https://github.com/ScooterStuff/SmartIndex)** | MongoDB index recommender using ESR ordering, Shannon entropy, and a trie-based MinSet optimiser. | Python · MongoDB · pytest |
+| **[autoe2e](https://github.com/ScooterStuff/autoe2e)** | Automated end-to-end test generation tooling. | Python |
+| **[forecasting_bias](https://github.com/ScooterStuff/forecasting_bias)** | Analysis of bias and error in forecasting models. | Python · Stats |
+| **[ec-prediction-ml](https://github.com/ScooterStuff/ec-prediction-ml)** | Machine-learning notebooks for an EC prediction problem. | Jupyter · scikit-learn |
+| **[flood_dashboard](https://github.com/ScooterStuff/flood_dashboard)** | Interactive dashboard visualising flood data. | TypeScript |
+| **[British International School Phuket Roblox Experience](https://www.roblox.com/games/5958451153/British-International-School-Phuket)** | Roblox development project for a school-themed interactive experience. | Roblox Studio · Lua |
+| **[textNER](https://github.com/ScooterStuff/textNER)** | NER for motion-input research. | Python · NLP |
 
 **Other things I'm proud of (not all on GitHub):**
-
-- _21-Card Poker Bot using Counterfactual Regret Minimization_ — designed a novel imperfect-information variant (analogous to Kuhn Poker) and trained a CFR agent that converges toward Nash equilibrium. _(Python · PyTorch)_
-- _LLM-Assisted Flaky Test Triage and Repair_ — Meta org-level hackathon winner.
+- *21-Card Poker Bot using Counterfactual Regret Minimization* — designed a novel imperfect-information variant (analogous to Kuhn Poker) and trained a CFR agent that converges toward Nash equilibrium. *(Python · PyTorch)*
+- *LLM-Assisted Flaky Test Triage and Repair* — Meta org-level hackathon winner.
 
 ### 🧰 Tech I use
 
