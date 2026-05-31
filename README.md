@@ -11,6 +11,11 @@
   <img alt="Location" src="https://img.shields.io/badge/London-UK-555?style=flat">
 </p>
 
+<p align="center">
+  <img alt="Meta" src="https://img.shields.io/badge/Meta-0467DF?style=flat&logo=meta&logoColor=white">
+  <img alt="Barclays" src="https://img.shields.io/badge/Barclays-00AEEF?style=flat&logo=barclays&logoColor=white">
+</p>
+
 ---
 
 ### 🎓 Education
@@ -22,9 +27,10 @@
 
 | When | Where | Role |
 |---|---|---|
-| Jun 2025 – Sep 2025 | **Meta**, London | Software Engineer Intern |
+| Jun 2025 – Sep 2025 | <img alt="Meta" src="https://img.shields.io/badge/Meta-0467DF?style=flat&logo=meta&logoColor=white"> London | Software Engineer Intern |
 | Oct 2024 – Apr 2025 | **UCL** | Research Assistant (LLM code generation) |
-| Jun 2024 – Aug 2024 | **Barclays**, Glasgow | Software Engineer Intern |
+| 2024 – 2025 | **UCL Department of Computer Science** | Programming Tutor |
+| Jun 2024 – Aug 2024 | <img alt="Barclays" src="https://img.shields.io/badge/Barclays-00AEEF?style=flat&logo=barclays&logoColor=white"> Glasgow | Software Engineer Intern |
 | Nov 2023 – Feb 2024 | **Janah Cycle** | Software Engineer (Remote) |
 
 **Highlights**
@@ -32,6 +38,16 @@
 - 🧪 At **UCL**, research on automated repair of ambiguous programming descriptions for LLM code generation — **+30.9% Pass@1** on repaired descriptions, **+10.48%** cross-model transfer; used Shannon entropy to cluster prompts by ambiguity.
 - 🗄️ At **Barclays**, built a Python tool to generate, test, and validate MongoDB indexing strategies — hit the **<100 ms** query target, **+15%** perf, **−8 GB** memory across 5M+ row models.
 - 🏆 **Winner**, Meta org-level hackathon — *LLM-Assisted Flaky Test Triage and Repair*.
+
+### 🌍 Leadership, Teaching & Extracurriculars
+
+| When | Organisation | Role |
+|---|---|---|
+| 2024 – 2025 | [**UCL Computer Science Society**](https://www.instagram.com/uclcss/?hl=en) | Welfare Officer |
+| 2023 – 2024 | [**UCL Computer Science Society**](https://www.instagram.com/uclcss/?hl=en) | Head of Marketing |
+| 2023 – 2024 | [**UCL Thai Society**](https://www.instagram.com/uclthaisociety/?hl=en) | Public Relations |
+| 2024 – 2025 | **UCL Department of Computer Science** | Programming Tutor |
+| Ongoing | **UCL Engineering Society · Badminton Society · Pool Society** | Active Member |
 
 ### 📌 Featured Projects
 
@@ -42,6 +58,7 @@
 | **[forecasting_bias](https://github.com/ScooterStuff/forecasting_bias)** | Analysis of bias and error in forecasting models. | Python · Stats |
 | **[ec-prediction-ml](https://github.com/ScooterStuff/ec-prediction-ml)** | Machine-learning notebooks for an EC prediction problem. | Jupyter · scikit-learn |
 | **[flood_dashboard](https://github.com/ScooterStuff/flood_dashboard)** | Interactive dashboard visualising flood data. | TypeScript |
+| **[British International School Phuket Roblox Experience](https://www.roblox.com/games/5958451153/British-International-School-Phuket)** | Roblox development project for a school-themed interactive experience. | Roblox Studio · Lua |
 | **[textNER](https://github.com/ScooterStuff/textNER)** | NER for motion-input research. | Python · NLP |
 
 **Other things I'm proud of (not all on GitHub):**
