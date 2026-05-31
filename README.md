@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tatsan 👋</h1>
 
 <p align="center">
-  <em>MEng Computer Science @ UCL · Software Engineer Intern @ Meta</em><br/>
+  <em>MEng Computer Science @ UCL · Previous Software Engineer Intern @ Meta and Barclays</em><br/>
   <em>Interested in developer tools, ML systems, and applied algorithms.</em>
 </p>
 
@@ -29,7 +29,7 @@
 
 **Highlights**
 - 🛠️ At **Meta**, shipped an internal commit-time test-coverage tool with 50+ MAU; partitioned the data pipeline to cut infra cost from ~$20 → $1.20/day.
-- 🧪 At **UCL**, co-authored research on automated repair of ambiguous programming descriptions for LLM code generation — **+30.9% Pass@1** on repaired descriptions, **+10.48%** cross-model transfer; used Shannon entropy to cluster prompts by ambiguity.
+- 🧪 At **UCL**, research on automated repair of ambiguous programming descriptions for LLM code generation — **+30.9% Pass@1** on repaired descriptions, **+10.48%** cross-model transfer; used Shannon entropy to cluster prompts by ambiguity.
 - 🗄️ At **Barclays**, built a Python tool to generate, test, and validate MongoDB indexing strategies — hit the **<100 ms** query target, **+15%** perf, **−8 GB** memory across 5M+ row models.
 - 🏆 **Winner**, Meta org-level hackathon — *LLM-Assisted Flaky Test Triage and Repair*.
 
@@ -84,12 +84,5 @@
 ![Mercurial](https://img.shields.io/badge/-Mercurial-999?style=flat&logo=mercurial&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
-
-### 📊 GitHub
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ScooterStuff&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScooterStuff&layout=compact&hide_border=true&langs_count=8" />
-</p>
 
 <sub>📫 Open to graduate roles starting 2026 — feel free to reach out via <a href="https://www.linkedin.com/in/tatsan-kantasit/">LinkedIn</a>.</sub>
