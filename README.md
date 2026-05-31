@@ -28,7 +28,7 @@
 | When | Where | Role |
 |---|---|---|
 | Jun 2025 – Sep 2025 | **Meta** London | Software Engineer Intern |
-| Oct 2024 – Apr 2025 | **UCL** | Research Assistant (LLM code generation) |
+| Oct 2024 – Apr 2025 | **UCL** | Research Assistant <a href="https://arxiv.org/html/2505.07270v1"> (LLM code generation)</a> |
 | Oct 2024 – Apr 2025 | **UCL Department of Computer Science** | Programming Tutor |
 | Jun 2024 – Aug 2024 | **Barclays** Glasgow | Software Engineer Intern |
 | Nov 2023 – Feb 2024 | **Janah Cycle** | Software Engineer (Remote) |
